@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 , I am Anurag Choudhury
+![](https://komarev.com/ghpvc/?username=anurag-choudhury)
 <!--
 **anurag-choudhury/anurag-choudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Robotics, Machine Learning
+- 👯 I’m looking to collaborate on real world impactful projects
+- 📫 How to reach me: **idanurag567@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/anuragchoudhury.xz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragchoudhury.xz" height="30" width="40" /></a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-choudhury)](https://github.com/anuraghazra/github-readme-stats)
